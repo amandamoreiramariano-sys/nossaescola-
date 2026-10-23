@@ -42,15 +42,12 @@ display: flex;
 justify-content: center;
 }
 
-.banner1 {
-    width: 100%;
-}
-
 .banner1 img {
     width: 100%;
+    height: 250px; /* você pode aumentar ou diminuir esse valor */
+    object-fit: cover;
     display: block;
 }
-
 
 
 
